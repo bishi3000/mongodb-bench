@@ -16,11 +16,11 @@ THe following steps assume you have Java 1.6 and Maven 3 installed and configure
 
 1.  Pull down the project
 
-    git clone https://github.com/bishi3000/mongodb-bench.git
+        git clone https://github.com/bishi3000/mongodb-bench.git
 
 2.  Inside the mongodb-bench directory, type:
 
-    mvn clean compile assembly:single
+        mvn clean compile assembly:single
 
 This will now create a single jar file in the mongodb-bench/target directory called "mongodb-benchmark-<version>-jar-with-dependencies.jar"
 
