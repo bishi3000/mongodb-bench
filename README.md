@@ -31,7 +31,7 @@ Runnuning mongodb-bench
 
 To run mongodb-bench, run the following command:
 
-    java -jar mongodb-benchmark-1.0-SNAPSHOT-jar-with-dependencies.jar
+    java -jar <path_to>/mongodb-benchmark-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 This should present the usage and options output.
 
